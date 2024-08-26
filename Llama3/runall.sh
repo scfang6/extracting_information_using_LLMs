@@ -1,0 +1,16 @@
+echo "llama3_Drug_direct"
+python llama3_Drug_direct.py
+echo "llama3_Drug_summary"
+python llama3_Drug_summary.py
+echo "llama3_ST_direct"
+python llama3_ST_direct.py
+echo "llama3_ST_summary"
+python llama3_ST_summary.py
+echo "llama3_STD_direct"
+python llama3_STD_direct.py
+echo "llama3_STD_summary"
+python llama3_STD_summary.py
+echo "llama3_AS_direct"
+python llama3_AS_direct.py
+echo "llama3_AS_summary"
+python llama3_AS_summary.py

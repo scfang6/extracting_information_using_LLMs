@@ -7,7 +7,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer, GenerationConfig, 
 import pandas as pd
 
 MODEL_NAME = "meta-llama/Llama-2-7b-chat-hf"
-sample_num = 200
+sample_num = 300
 
 def load_model_config(MODEL_NAME):
     
